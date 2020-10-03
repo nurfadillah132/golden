@@ -1,1 +1,1 @@
-# golden
+Contoh Sistem Informasi Kursus
